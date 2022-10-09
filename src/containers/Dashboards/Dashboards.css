@@ -1,0 +1,27 @@
+.dashboard-card{
+    float:left;
+    margin: 16px 16px 16px 16px!important;
+    filter: blur(0px);
+   
+}
+
+.title-card{
+    /* background-image: url('./drugSearch.PNG');  */
+    background-size: 300px;
+    height:150px;
+    /* width:300px; */
+    filter: blur(0px);
+}
+
+
+.dashboard-card:hover .title-card{
+    filter: blur(2px);
+    
+
+    }
+
+.dashboard-card:hover{
+    width:301px!important;
+}
+
+   

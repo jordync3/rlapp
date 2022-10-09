@@ -1,0 +1,18 @@
+.ca-card-icon{
+    text-align:center;
+    vertical-align: middle;
+}
+
+.card-titles{
+    text-align:center
+}
+.ca-graph-title{
+    width:100%;
+    float:left;
+    text-align: left;
+    border-bottom: 2px solid lightgrey;
+    margin-top: 0px;
+    font-size: 16px;
+    font-weight: 600;
+    margin-bottom: 16px;
+}

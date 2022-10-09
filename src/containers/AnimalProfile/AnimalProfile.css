@@ -1,0 +1,60 @@
+.card-icon{
+    text-align:center;
+    margin-top:16px
+}
+
+.card-titles{
+    text-align:center
+}
+
+.ETLCard{
+    height: 280;
+    border-radius: 10px;
+    width:100%;
+    padding:5px 5px;
+    background:#F3F2F1;
+    cursor: pointer;
+}
+
+.ETLCardActive{
+    height: 280;
+    border-radius: 10px;
+    width:100%;
+    padding:5px 5px;
+    background:#f0d2b5;
+    cursor: pointer;
+
+}
+
+.ETLCard .ant-card-body {
+    height: 150px;
+    background:white;
+    padding: 0;
+}
+
+.ETLCardActive .ant-card-body {
+    height: 150px;
+    background:white;
+    padding: 0;
+}
+
+.ETLCard:hover {
+    background:#f0d2b5;
+    opacity: 0.9;
+    transition: 0.6s;
+}
+
+/* .ETLCard .ant-card-body:hover {
+    height: 150px;
+    background: blue;
+    opacity: 0.9;
+    transition: 0.6s;
+    cursor: pointer;
+} */
+
+.ETLApplications::-webkit-scrollbar { 
+    display: none;  /* Safari and Chrome */
+    -ms-overflow-style: none;  /* Internet Explorer 10+ */
+    scrollbar-width: none;  /* Firefox */
+}
+

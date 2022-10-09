@@ -1,0 +1,27 @@
+
+
+.answers-brand{
+    color:white;
+}
+
+.header-background{
+  background-color: #37394A !important;
+  color: #bdc3c7 !important;
+}
+
+.nav-links{
+  background-color: #37394A !important;
+  color: white !important;
+}
+.nav-links:hover{
+  color: #bdc3c7 !important;
+
+}
+
+
+.button-text{
+  padding-top:7px;
+  padding-right:5px;
+  font-weight: 550;
+}
+
